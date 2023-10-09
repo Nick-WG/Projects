@@ -1,2 +1,3 @@
 # Projects
-This is all my projects from classes I have completed.
+These are all my projects from all the classes I have completed at WSU Tech in CLD 138.
+They involve programs such as Swift, Pyhton and AWS Cloud.
